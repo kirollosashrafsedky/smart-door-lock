@@ -42,3 +42,9 @@ A door lock system implemented using 2 **ATMEGA 16** MCUs, using layered structu
 ## Author
 
 > **Kirollos Ashraf Sedky**
+
+## Schematic
+![Proteus Schematic](https://drive.google.com/uc?export=view&id=1nIcbLenPjF3u5lop_lQFtLxfunQh3-fe)
+
+## Repo Link
+> [Git Hub Repo Link](https://github.com/kirollosashrafsedky/smart-door-lock)
